@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>去看看世界吧！就是现在~</title>
+      <link href="/2026/01/27/%E6%97%85%E6%B8%B8%E7%AF%87/2025%E6%89%93%E5%8D%A1%E6%99%AF%E7%82%B9/"/>
+      <url>/2026/01/27/%E6%97%85%E6%B8%B8%E7%AF%87/2025%E6%89%93%E5%8D%A1%E6%99%AF%E7%82%B9/</url>
+      
+        <content type="html"><![CDATA[<h2 id="盘点2025年我打卡的景点"><a href="#盘点2025年我打卡的景点" class="headerlink" title="盘点2025年我打卡的景点"></a>盘点2025年我打卡的景点</h2><p>2025年是我旅行的丰收年，走访了许多令人难忘的景点。以下是我打卡的一些精彩地点：</p><h2 id="1-巴黎埃菲尔铁塔"><a href="#1-巴黎埃菲尔铁塔" class="headerlink" title="1. 巴黎埃菲尔铁塔"></a>1. 巴黎埃菲尔铁塔</h2><p>作为法国的象征，埃菲尔铁塔的壮丽景色让我流连忘返。登上塔顶俯瞰巴黎市区，夜晚的灯光秀更是令人陶醉。</p><h2 id="2-日本京都清水寺"><a href="#2-日本京都清水寺" class="headerlink" title="2. 日本京都清水寺"></a>2. 日本京都清水寺</h2><p>清水寺是日本的一个重要景点，以其独特的建筑风格和丰富的历史文化而闻名。我在清水寺停留了几天，感受到了日本文化的魅力。</p><h2 id="3-美国大峡谷"><a href="#3-美国大峡谷" class="headerlink" title="3. 美国大峡谷"></a>3. 美国大峡谷</h2><p>美国大峡谷是一个著名的自然公园，以其陡峭的登山路线和神秘的瀑布而闻名。我在大峡谷停留了几天，体验到了自然的魅力。</p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Jireh的分类页</title>
+      <link href="/2026/01/06/hello-world/"/>
+      <url>/2026/01/06/hello-world/</url>
+      
+        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>代码块演示</title>
+      <link href="/2026/01/06/%E4%BB%A3%E7%A0%81%E5%9D%97%E6%BC%94%E7%A4%BA/%E6%BC%94%E7%A4%BA/"/>
+      <url>/2026/01/06/%E4%BB%A3%E7%A0%81%E5%9D%97%E6%BC%94%E7%A4%BA/%E6%BC%94%E7%A4%BA/</url>
+      
+        <content type="html"><![CDATA[<figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># 这是一个Python代码块演示</span></span><br><span class="line"><span class="keyword">def</span> <span class="title function_">hello_world</span>():</span><br><span class="line">    <span class="built_in">print</span>(<span class="string">&quot;Hello, World!&quot;</span>)</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+</search>
